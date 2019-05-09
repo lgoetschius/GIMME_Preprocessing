@@ -9,4 +9,4 @@ If you have any questions, please reach out to:
 - Hailey Dotterer: hdotty@umich.edu
 - Leigh Goetschius: lcgayle@umich.edu
 
-To cite these scripts: [![DOI](https://zenodo.org/badge/160727551.svg)](https://zenodo.org/badge/latestdoi/160727551)
+Adriene M. Beltz, Hailey L. Dotterer, & Leigh G. Goetschius. (2019, May 9). lgoetschius/GIMME_Preprocessing: Initial Release (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.2692522
