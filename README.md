@@ -5,8 +5,7 @@ This set of scripts were used for preparing resting state functional MRI data fo
 These scripts were developed by/with Adriene Beltz, Hailey Dotterer, and Leigh Goetschius. 
 
 If you have any questions, please reach out to: 
-\begin{itemize}
-  \item Adriene Beltz: abeltz@umich.edu
-  \item Hailey Dotterer: hdotty@umich.edu
-  \item Leigh Goetschius: lcgayle@umich.edu
-\end{itemize}
+- Adriene Beltz: abeltz@umich.edu
+- Hailey Dotterer: hdotty@umich.edu
+- Leigh Goetschius: lcgayle@umich.edu
+
