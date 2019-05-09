@@ -9,3 +9,4 @@ If you have any questions, please reach out to:
 - Hailey Dotterer: hdotty@umich.edu
 - Leigh Goetschius: lcgayle@umich.edu
 
+To cite these scripts: [![DOI](https://zenodo.org/badge/160727551.svg)](https://zenodo.org/badge/latestdoi/160727551)
